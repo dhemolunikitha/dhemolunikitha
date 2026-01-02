@@ -16,11 +16,15 @@
 
 ---
 
-## 🛠️ Skills
-- ☕ Java  
-- 🗄️ SQL / MySQL  
-- 📚 Data Structures & Basics  
-- 🔧 Git & GitHub  
+## 🛠️ Tech Skills
+- ☕ **Java**  
+- 🐍 **Python**  
+- 📊 **R**  
+- 🗄️ **SQL**  
+- 💻 **C**  
+- 🌐 **HTML**  
+- 🎨 **CSS**  
+- ⚡ **JavaScript**
 
 ---
 
@@ -31,4 +35,11 @@
 
 ---
 
+## Connect me at 
+- email - dhemolunikitha0620@gmail.com
+- LinkedIn - https://www.linkedin.com/in/dhemolu-nikitha-11b8b832b/
+
+---
+
 ⭐ *Always learning, always building*
+
