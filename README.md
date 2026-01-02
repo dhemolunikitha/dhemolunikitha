@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Nikitha
 
-<!--
-**dhemolunikitha/dhemolunikitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Data Science Student**  
+💻 **Java | 🗄️ SQL**  
+👩‍💻 **Coding Enthusiast**  
+🌱 **Learning & Building Consistently**  
+🧑‍🤝‍🧑 **Pronouns:** she/her  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🔹 Currently working on **Java and SQL**
+- 🔹 Interested in **coding and problem solving**
+- 🔹 Preparing step-by-step for **placements**
+- 🔹 Believe in consistency and continuous learning
+
+---
+
+## 🛠️ Skills
+- ☕ Java  
+- 🗄️ SQL / MySQL  
+- 📚 Data Structures & Basics  
+- 🔧 Git & GitHub  
+
+---
+
+## 🎯 Goals
+- Improve coding skills  
+- Build meaningful projects  
+- Crack campus placements 🚀  
+
+---
+
+⭐ *Always learning, always building*
