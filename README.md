@@ -31,7 +31,7 @@
 ## 🎯 Goals
 - Improve coding skills  
 - Build meaningful projects  
-- Crack campus placements 🚀  
+- Learn consistently and improve every day 🌱 
 
 ---
 
